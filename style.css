@@ -1,6 +1,10 @@
+body {
+    background: rgb(0, 146, 102);
+}
+
 h1 {
     color: red;
 }
 p {
-    color: yellow;
+    color: rgb(0, 157, 168);
 }
